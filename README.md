@@ -1,11 +1,11 @@
-# 🎬 CinePlix – Mobile Movie App
+# 🎬 CinePlix 2.0 – Mobile Movie App
 
 [![React Native](https://img.shields.io/badge/React%20Native-0.81.5-blue)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-Managed-orange)](https://expo.dev/)
 [![Appwrite](https://img.shields.io/badge/Appwrite-Cloud-purple)](https://appwrite.io/)
 [![Tailwind](https://img.shields.io/badge/TailwindCSS-3.5-teal)](https://tailwindcss.com/)
 
-CinePlix is a **React Native mobile movie app** built with **Expo, Appwrite, Tailwind, and NativeWind**.  
+CinePlix 2.0 is a **React Native mobile movie app** built with **Expo, Appwrite, Tailwind, and NativeWind**.  
 It allows users to **browse, search, and track trending movies** in real-time with a smooth, mobile-first UI.
 
 ---
@@ -39,7 +39,7 @@ It allows users to **browse, search, and track trending movies** in real-time wi
 1. **Clone the repo:**
 
 ```bash
-git clone <YOUR_REPO_URL>
+git clone <[YOUR_REPO_URL](https://github.com/Mitali1417/cineplix-2.0/)>
 cd CinePlix
 
 ```
