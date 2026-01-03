@@ -97,7 +97,7 @@ EXPO_PUBLIC_APPWRITE_COLLECTION_ID=your_collection_id_here
 ## SnapShots 📷
 | Home | Search | Movie Details |
 |------|--------|---------------|
-| <img src="https://res.cloudinary.com/duju3bhds/image/upload/v1767447786/Screenshot_2026-01-03-19-10-42-879_host.exp.exponent_es9brg.jpg" width="180"/> | <img src="https://res.cloudinary.com/duju3bhds/image/upload/v1767447786/Screenshot_2026-01-03-19-11-13-311_host.exp.exponent_yofcjs.jpg" width="180"/> | <img src="https://res.cloudinary.com/duju3bhds/image/upload/v1767447786/Screenshot_2026-01-03-19-11-04-065_host.exp.exponent_w6m0k2.jpg" width="180"/> |
+| <img src="https://res.cloudinary.com/duju3bhds/image/upload/v1767447786/Screenshot_2026-01-03-19-10-42-879_host.exp.exponent_es9brg.jpg" width="220"/> | <img src="https://res.cloudinary.com/duju3bhds/image/upload/v1767447786/Screenshot_2026-01-03-19-11-13-311_host.exp.exponent_yofcjs.jpg" width="220"/> | <img src="https://res.cloudinary.com/duju3bhds/image/upload/v1767447786/Screenshot_2026-01-03-19-11-04-065_host.exp.exponent_w6m0k2.jpg" width="220"/> |
 
 
 
