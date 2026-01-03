@@ -39,7 +39,7 @@ It allows users to **browse, search, and track trending movies** in real-time wi
 1. **Clone the repo:**
 
 ```bash
-git clone <[YOUR_REPO_URL](https://github.com/Mitali1417/cineplix-2.0/)>
+git clone [https://github.com/Mitali1417/cineplix-2.0.git](https://github.com/Mitali1417/cineplix-2.0.git)
 cd CinePlix
 
 ```
