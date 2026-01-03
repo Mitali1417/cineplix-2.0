@@ -96,6 +96,9 @@ EXPO_PUBLIC_APPWRITE_COLLECTION_ID=your_collection_id_here
 
 ## SnapShots 📷
 
+![CinePlix Home](https://res.cloudinary.com/duju3bhds/image/upload/v1767447786/Screenshot_2026-01-03-19-10-42-879_host.exp.exponent_es9brg.jpg)
+![Search](https://res.cloudinary.com/duju3bhds/image/upload/v1767447786/Screenshot_2026-01-03-19-11-13-311_host.exp.exponent_yofcjs.jpg)
+![Movie Details](https://res.cloudinary.com/duju3bhds/image/upload/v1767447786/Screenshot_2026-01-03-19-11-04-065_host.exp.exponent_w6m0k2.jpg)
 
 
 
