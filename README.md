@@ -94,7 +94,7 @@ EXPO_PUBLIC_APPWRITE_COLLECTION_ID=your_collection_id_here
 
 ---
 
-**SnapShots:**
+## SnapShots 📷
 
 
 
@@ -103,7 +103,7 @@ EXPO_PUBLIC_APPWRITE_COLLECTION_ID=your_collection_id_here
 
 ---
 
-**Future Enhancements**
+## Future Enhancements ✨
 
 - Add user authentication for saving favorites
 - Push notifications for trending movies
