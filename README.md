@@ -1,51 +1,110 @@
-# Welcome to your Expo app 👋
+# 🎬 CinePlix – Mobile Movie App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+[![React Native](https://img.shields.io/badge/React%20Native-0.81.5-blue)](https://reactnative.dev/)
+[![Expo](https://img.shields.io/badge/Expo-Managed-orange)](https://expo.dev/)
+[![Appwrite](https://img.shields.io/badge/Appwrite-Cloud-purple)](https://appwrite.io/)
+[![Tailwind](https://img.shields.io/badge/TailwindCSS-3.5-teal)](https://tailwindcss.com/)
 
-## Get started
+CinePlix is a **React Native mobile movie app** built with **Expo, Appwrite, Tailwind, and NativeWind**.  
+It allows users to **browse, search, and track trending movies** in real-time with a smooth, mobile-first UI.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 🌟 Features
 
-2. Start the app
+- **Real-time data**: Fetch and display movies dynamically using Appwrite
+- **Home Page**: Featured and discover movies
+- **Search Page**: Find your favorite movies quickly
+- **Trending movies**: Popularity algorithm tracks searches to display trending content
+- **Mobile-first UI**: Responsive design with Tailwind & NativeWind
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 🛠 Tech Stack
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+| Feature            | Tech                             |
+| ------------------ | -------------------------------- |
+| Mobile Framework   | React Native (Expo)              |
+| Backend / Database | Appwrite                         |
+| Styling            | Tailwind CSS + NativeWind        |
+| Real-time Data     | Appwrite Database & Queries      |
+| Navigation         | React Navigation                 |
+| State Management   | React Hooks / Zustand (optional) |
+| Movie API          | TMDB / Your Movie API Key        |
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## ⚙️ Environment Setup
 
-When you're ready, run:
+1. **Clone the repo:**
 
 ```bash
-npm run reset-project
+git clone <YOUR_REPO_URL>
+cd CinePlix
+
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+2. **Install dependencies:**
 
-To learn more about developing your project with Expo, look at the following resources:
+```bash
+npm install
+# or
+yarn install
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```
 
-## Join the community
+**Dependencies include**:
 
-Join our community of developers creating universal apps.
+- react-native
+- expo
+- nativewind
+- tailwindcss
+- react-native-masked-view
+- react-native-linear-gradient
+- react-native-appwrite
+- react-navigation
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-# cineplix-2.0
+---
+
+3. **Environment Variables:**
+
+**Create a .env file in the root directory:**:
+
+```bash
+EXPO_PUBLIC_MOVIE_API_KEY=your_movie_api_key_here
+EXPO_PUBLIC_APPWRITE_PROJECT_ID=your_appwrite_project_id_here
+EXPO_PUBLIC_APPWRITE_DATABASE_ID=your_database_id_here
+EXPO_PUBLIC_APPWRITE_COLLECTION_ID=your_collection_id_here
+
+```
+
+4. **Start the app:**
+
+**Create a .env file in the root directory:**:
+
+```bash
+EXPO_PUBLIC_MOVIE_API_KEY=your_movie_api_key_here
+EXPO_PUBLIC_APPWRITE_PROJECT_ID=your_appwrite_project_id_here
+EXPO_PUBLIC_APPWRITE_DATABASE_ID=your_database_id_here
+EXPO_PUBLIC_APPWRITE_COLLECTION_ID=your_collection_id_here
+
+```
+
+---
+
+**SnapShots:**
+
+
+
+
+
+
+---
+
+**Future Enhancements**
+
+- Add user authentication for saving favorites
+- Push notifications for trending movies
+- Improve offline support with local caching
